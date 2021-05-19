@@ -1,11 +1,12 @@
-### Hi, I am Daniel! 👋
+## Hi, I am Daniel! 👋
 
 I am glad you found your way to my profile.
 
-## About me
+### About me
 
 - 💻 Computer Science Student
-- 
+- 🛠️ Mechanical Engineer
+- 💡 Web Developer
 - 🚀 Skydiving Instructor
 - 🐳 Passionate Freediver
 
@@ -21,12 +22,24 @@ I even ended up signing up to uni doing my Computer Science Degree.
 
 **I am hooked!**
  
-## What i currently work on
+### I am currently working on
 
-🌱  Learning, not gonna stop anytime soon
 * A React app for documenting and managing staff schedules better
-* An electron desktop app to manage bording and time schedules for a skydiving dropzone
-* Getting to know Vanilla Node.js better, cause i wanna know whats happening behind the scenes of the frameworks
+* An electron desktop app to manage boarding and time schedules for a skydiving dropzone
+
+### I am currently learning
+
+* Getting to know Vanilla Node.js better. See behind the scenes of Express
+* Learning new things about Javascript. Thats never gonna end
+* Getting to know React better
+
+### Goals
+
+* Getting to know more people in the community
+* Becoming more active in the open source community
+* Land a job developer job
+
+
 <!--
 **Daniel-Singer/Daniel-Singer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
