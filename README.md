@@ -6,7 +6,7 @@ I am glad you found your way to my profile.
 
 - 💻 Computer Science Student
 - 🛠️ Mechanical Engineer
-- 💡 Web Developer
+- 💡 Passionate Developer
 - 🚀 Skydiving Instructor
 - 🐳 Passionate Freediver
 
@@ -37,7 +37,7 @@ I even ended up signing up to uni doing my Computer Science Degree.
 
 * Getting to know more people in the community
 * Becoming more active in the open source community
-* Land a job developer job
+* Land a job in software engineering
 
 
 <!--
