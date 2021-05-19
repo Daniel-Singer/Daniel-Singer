@@ -5,7 +5,8 @@ I am glad you found your way to my profile.
 ## About me
 
 - 💻 Computer Science Student
-- 🚀 Professional Skydiver
+- 
+- 🚀 Skydiving Instructor
 - 🐳 Passionate Freediver
 
 I found myself in the vast world of coding just recently.
