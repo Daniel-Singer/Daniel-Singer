@@ -29,10 +29,10 @@ I even ended up signing up to uni doing my Computer Science Degree.
 
 ### I am currently learning
 
-* Getting to know Vanilla Node.js better. See behind the scenes of Express
-* Learning new things about Javascript. Thats never gonna end
-* Getting to know React better
-
+* More Vanilla Node.js to see behind the scenes of Express
+* More Javascript. Cause there is always something to learn
+* A deeper understanding of React
+* 
 ### Goals
 
 * Getting to know more people in the community
