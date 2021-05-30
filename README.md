@@ -8,7 +8,7 @@ I am glad you found your way to my profile.
 - 🛠️ Mechanical Engineer
 - 💡 Passionate Developer
 - 🚀 Skydiving Instructor
-- 🐳 Passionate Freediver
+- 🐳 Freediver
 
 I found myself in the vast world of coding just recently.
 Due to the pandemic, i got bored out of my mind, nothing to do... so I tried to challenge myself and learn to code.
